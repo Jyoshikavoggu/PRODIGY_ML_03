@@ -2,17 +2,17 @@
 
 Image classification of dogs and cats by implementing SVM
 
-OVERVIEW:
+OVERVIEW
 
 The code aims to implement a Support Vector Machine (SVM) for classifying images of cats and dogs from a Kaggle dataset. The classification is based on Histogram of Oriented Gradients (HOG) features extracted from preprocessed grayscale images. The SVM model is trained and evaluated, and a prediction is demonstrated on a sample image.
 
-DATASET:
+DATASET
 
 The training archive comprises 25,000 images of dogs and cats. The project focuses on training the SVM model using these files to enable accurate classification. Subsequently, the trained model predicts labels for test1.zip, differentiating between dogs (1) and cats (0). A part of 25000 images were used for traingi and a part of test1.zip was used for testing.
 
 Dataset: https://www.kaggle.com/c/dogs-vs-cats/data
 
-TECHNOLOGIES USED:
+TECHNOLOGIES USED
 
 1.Python: The primary programming language for the entire solution.
 
@@ -26,7 +26,7 @@ TECHNOLOGIES USED:
 
 6.scikit-image: Provides tools for image processing, including the HOG feature extraction.
 
-CODE OVERVIEW:
+CODE OVERVIEW
 
 1.Dataset Loading: Images are loaded from the provided dataset path, and corresponding labels (categories: 'cat' and 'dog') are assigned.
 
@@ -43,6 +43,14 @@ CODE OVERVIEW:
 Acuuracy: ~83.17%
 Best parameters: 'C': 10, 'kernel': 'rbf'
 
-CONCLUSION:
+CONCLUSION
 
 The developed hand gesture recognition model serves as a foundation for intuitive human-computer interaction and gesture-based control systems. The use of deep learning, specifically CNNs, allows the model to learn intricate patterns in hand gestures, providing a robust and accurate solution for real-world applications.
+
+ACKNOLEDGEMENT
+
+The project is for educational purposes and was created as part of @Prodigy_Infotech Internship
+
+Feel free to explore, modify, or expand upon this project!
+
+If you have any queRIES, suggestions, or feedback, please feel free to email me at Jyoshikavoggu@gmail.com
