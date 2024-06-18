@@ -1,6 +1,5 @@
 # PRODIGY_ML_03
-
-Image classification of dogs and cats by implementing SVM
+# Image classification of dogs and cats by implementing SVM
 
 OVERVIEW
 
