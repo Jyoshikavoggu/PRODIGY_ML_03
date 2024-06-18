@@ -53,4 +53,4 @@ The project is for educational purposes and was created as part of @Prodigy_Info
 
 Feel free to explore, modify, or expand upon this project!
 
-If you have any queRIES, suggestions, or feedback, please feel free to email me at Jyoshikavoggu@gmail.com
+If you have any queries, suggestions, or feedback, please feel free to email me at Jyoshikavoggu@gmail.com
